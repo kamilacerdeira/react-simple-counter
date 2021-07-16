@@ -1,6 +1,7 @@
-# React Button Toggle
+# React Simple Counter
 
-![react-button-toggle](https://user-images.githubusercontent.com/66564811/126001749-21710672-e8d6-4362-ad58-3627421cdf25.gif)
+![react-simple-counter](https://user-images.githubusercontent.com/66564811/126006681-57658b13-6c84-466e-8061-70f8ca5678ba.gif)
+
 
 ---
 
